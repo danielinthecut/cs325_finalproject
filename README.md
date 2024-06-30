@@ -5,7 +5,7 @@ This project gathers weather forecast data using the NOAA API and creates an HTM
 ## Features
 - Gather weather forecast data using latitude and longitude.
 - Save forecast data to a text file.
-- Create an HTML page displaying the forecast data in a tabular format.
+- Create an HTML page to show forecast data in a tabular format.
 
 ## Requirements
 - Python 3.12
