@@ -8,7 +8,7 @@ This project gathers weather forecast data using the NOAA API and creates an HTM
 - Create an HTML page displaying the forecast data in a tabular format.
 
 ## Requirements
-- Python 3.x
+- Python 3.12
 - `requests` library
 
 ## Setup
