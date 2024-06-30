@@ -14,23 +14,23 @@ This project gathers weather forecast data using the NOAA API and creates an HTM
 ## Setup
 
 1. Clone the repository:
-    git clone https://github.com/your-username/weather-forecast-webpage.git
-    cd weather-forecast-webpage
+    - git clone https://github.com/your-username/weather-forecast-webpage.git
+    - cd weather-forecast-webpage
 
 
 3. Create and activate a virtual environment:
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    - python -m venv venv
+    - source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 4. Install the required packages:
-    pip install requests
+    - pip install requests
 
 ## Usage
 
 1. Replace `latitude` and `longitude` values in `example.py` with your coordinates.
 
 2. Run the script:
-    python your_script_name.py
+    - python your_script_name.py
 
 
 3. The script will:
