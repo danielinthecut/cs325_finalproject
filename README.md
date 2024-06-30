@@ -1,4 +1,4 @@
-# Weather Forecast Webpage
+# Weather Forecast HTML Webpage
 
 This project gathers weather forecast data using the NOAA API and creates an HTML page that contains information regarding the forecast.
 
@@ -14,8 +14,8 @@ This project gathers weather forecast data using the NOAA API and creates an HTM
 ## Setup
 
 1. Clone the repository:
-    - git clone https://github.com/your-username/weather-forecast-webpage.git
-    - cd weather-forecast-webpage
+    - git clone https://github.com/danielinthecut/cs325_finalproject.git
+    - cd cs325_finalproject
 
 
 3. Create and activate a virtual environment:
@@ -27,10 +27,10 @@ This project gathers weather forecast data using the NOAA API and creates an HTM
 
 ## Usage
 
-1. Replace `latitude` and `longitude` values in `example.py` with your coordinates.
+1. Replace `latitude` and `longitude` values in `finalproj.py` with your coordinates.
 
 2. Run the script:
-    - python your_script_name.py
+    - python finalproj.py
 
 
 3. The script will:
