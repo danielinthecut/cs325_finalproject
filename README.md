@@ -27,7 +27,7 @@ This project gathers weather forecast data using the NOAA API and creates an HTM
 
 ## Usage
 
-1. Replace the `latitude` and `longitude` values in `your_script_name.py` with the desired coordinates.
+1. Replace the `latitude` and `longitude` values in `example.py` with the desired coordinates.
 
 2. Run the script:
     python your_script_name.py
